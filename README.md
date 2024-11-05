@@ -14,7 +14,7 @@
 ## Sentiment Polarity in Movie Reviews
 
 ### Description:
-The movie-review dataset2 consists of movie reviews labeled with sentiment polarity (i.e. “positive review” or “negative review”). The project presents a variation of the perceptron which learns to identify the sentiment in a review.
+The movie-review dataset consists of movie reviews labeled with sentiment polarity (i.e. “positive review” or “negative review”). The project presents a variation of the perceptron which learns to identify the sentiment in a review.
 
 ### Data:
 There is a training, development and test dataset. Each line in these datasets has three entries, separated by a tab character (\t). The first is the movie review (available only for reference),
