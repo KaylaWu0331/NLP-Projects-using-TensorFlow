@@ -145,4 +145,4 @@ This project utilizes a pretrained transformer-based architecture with PyTorch a
 - [Train in native PyTorch](https://huggingface.co/docs/transformers/training#train-in-native-pytorch)
 
 ### Result：
-![result](Sentiment Analysis with Transformers/r5.png)
+![result](r5.png)
